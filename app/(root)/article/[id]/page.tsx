@@ -80,7 +80,7 @@ const Page = () => {
             setRecommendations(data.recommendations);
         }
         fetchArticle()
-    })
+    },[])
     
     console.log(id)
     return(
@@ -119,7 +119,7 @@ const Page = () => {
             </div>
         </div>
         <div className='font-bold text-xl sm:text-2xl text-center mb-4 w-full sm:w-[25%] p-8 flex flex-col items-center'>
-            People also search for
+            Similar Reads You May Like
             <div className='flex flex-col items-center justify-between w-full my-4'>
                 {recommendations.map((item) => {
                     return (
