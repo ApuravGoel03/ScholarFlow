@@ -10,7 +10,6 @@ import { useEffect, useState } from 'react';
 
 const Navbar = () => {
     const [guestUsername, setGuestUsername] = useState<string | null>(null);
-    const [guestId, setGuestId] = useState<string | null>(null);
     useEffect(() => {
       const initGuest = async () => {
             const uuid = uuidv4();
@@ -23,9 +22,6 @@ const Navbar = () => {
             });
     
             const data = await res.json();
-            if (data.guestId) {
-              setGuestId(data.guestId);
-            }
             if (data.guestUsername) {
               setGuestUsername(data.guestUsername);
             }

@@ -80,7 +80,7 @@ const Page = () => {
             setRecommendations(data.recommendations);
         }
         fetchArticle()
-    },[])
+    })
     
     console.log(id)
     return(
