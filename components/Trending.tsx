@@ -10,7 +10,7 @@ import {
   
 
 const Trending = async () => {
-    const res = await fetch('http:localhost:3000/api/trending/recommendations', {
+    const res = await fetch('https://scholar-flow-ruddy.vercel.app//api/trending/recommendations', {
         method: 'GET',
         headers: {
             'Content-Type': 'application/json',

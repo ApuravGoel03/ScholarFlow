@@ -13,7 +13,7 @@ import {
 const Personal = async () => {
     const user_id = await getUser();
     const guest_id = user_id?.guestId;
-    const res = await fetch(`http:localhost:3000/api/user/recommend/${guest_id}`, {
+    const res = await fetch(`https://scholar-flow-ruddy.vercel.app//api/user/recommend/${guest_id}`, {
         method: 'GET',
         headers: {
             'Content-Type': 'application/json',

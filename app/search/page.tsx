@@ -31,7 +31,7 @@ export default async function Search({searchParams} : {searchParams: Promise<{qu
     console.log(query)
     const cookieStorage = await cookies();
     const guestId = cookieStorage.get('guest_id')?.value;
-    const res = await fetch('http:localhost:3000/api/query/hybrid',{
+    const res = await fetch('https://scholar-flow-ruddy.vercel.app//api/query/hybrid',{
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
