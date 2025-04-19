@@ -1,0 +1,1520 @@
+[
+    {
+      "_id": "9047e31d-84f1-4231-a00e-aea2cb0f2c67",
+      "abstract": "This study introduces a novel semantic graph-based framework for enhanced language understanding. By constructing a dynamic linguistic graph that models dependencies between syntactic and semantic units, our method outperforms traditional parsing techniques in complex sentence interpretation. We conduct experiments across three benchmark NLP datasets, showing significant improvements in tasks including named entity recognition and semantic role labeling. The results demonstrate the robustness of our approach in capturing long-range dependencies and contextual cues.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        }
+      ],
+      "doi": "10.1000/fad2f9b5",
+      "fos": [
+        "machine learning",
+        "natural language processing"
+      ],
+      "keywords": [
+        "transformers",
+        "bert",
+        "nlp"
+      ],
+      "lang": "en",
+      "n_citation": 75,
+      "references": [
+        "bf0b6290-6b15-4830-bbec-134765bfc60c",
+        "e9984fba-cf47-421b-8034-80ec14ab6b9a",
+        "35b25516-26ee-4eea-b4b1-ca027311f26a",
+        "b86011ff-b16b-4bf8-a087-f10183037a87",
+        "46b916d5-ef02-4e08-8e5f-cee3ae078fa9",
+        "e65acd65-9b92-417f-bcd5-b0016865be00",
+        "c1fdc019-7c1b-4893-bca8-641f67793edc",
+        "489008fa-78a2-44eb-920d-6317ba11186e",
+        "46db0bd7-1c24-4c84-af1d-4a11e649adad"
+      ],
+      "title": "Semantic Graph Modeling for Enhanced Language Understanding",
+      "venue": {
+        "_id": "555037cf7cea80f95419b101",
+        "name": "ACL",
+        "raw": "ACL"
+      },
+      "year": 2018,
+      "es_score": 0.922,
+      "qdrant_score": 1.0,
+      "combined_score": 0.439,
+      "query_similarity": 1.0,
+      "final_score": 0.813
+    },
+    {
+      "_id": "3eb75918-81de-4f7d-a851-34d3a8d5570f",
+      "abstract": "We propose a new method for multilingual translation by integrating transformer-based large language models (LLMs) into standard translation pipelines. Our system leverages language-specific adapters and attention refinements to ensure consistency and fluency across diverse language pairs. Evaluations on the WMT and IWSLT datasets reveal that our method significantly outperforms existing baselines, especially in low-resource language settings. The paper also provides a comparative error analysis and discusses implications for future multilingual systems.",
+      "authors": [
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        }
+      ],
+      "doi": "10.1000/bb272e8e",
+      "fos": [
+        "deep learning",
+        "computer vision"
+      ],
+      "keywords": [
+        "translation",
+        "language models",
+        "multilingual"
+      ],
+      "lang": "en",
+      "n_citation": 84,
+      "references": [
+        "7ffaf9b6-eeb5-44f8-b2ab-5faaa2e1701c",
+        "d87ff94c-15b3-41b0-8657-85058f62758d",
+        "1dab2d78-764b-4ffc-85f3-814193d0be19",
+        "3dc26919-1c5e-405e-9403-3f1f22eb76f0",
+        "139b63be-9ba4-44ae-b9c3-208a38916df7",
+        "02930a89-5474-415a-b34c-cb745714b884",
+        "37f0f969-a80e-480f-b147-cd8f3f11ce08",
+        "49d6fae3-0696-4218-8c1d-4cb7a0e5d7d5",
+        "5cc5997a-da4c-4d06-90ac-b98ac4834335",
+        "9483acc8-bf57-401a-8dc7-0282e419d3de",
+        "61d92e59-404e-4f4b-9d6f-23f4a02821b2"
+      ],
+      "title": "Multilingual Translation with Enhanced LLM Integration",
+      "venue": {
+        "_id": "555037cf7cea80f95419b102",
+        "name": "EMNLP",
+        "raw": "EMNLP"
+      },
+      "year": 2017,
+      "es_score": 0.473,
+      "qdrant_score": 1.0,
+      "combined_score": 0.789,
+      "query_similarity": 1.0,
+      "final_score": 0.93
+    },
+    {
+      "_id": "8dc59e66-e24b-4823-a520-44c35320728e",
+      "abstract": "This paper presents a deep reinforcement learning (DRL) model for simulating financial market dynamics. We design a multi-agent trading environment where each agent learns distinct trading strategies under varied risk preferences. The DRL model incorporates stochastic volatility, reward shaping, and market feedback to simulate real-world trading scenarios. Experimental results highlight the model\u2019s capability to generalize across different market conditions and achieve profitable performance compared to rule-based strategies.",
+      "authors": [
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/98c4330d",
+      "fos": [
+        "reinforcement learning",
+        "economics"
+      ],
+      "keywords": [
+        "stock prediction",
+        "q-learning",
+        "markets"
+      ],
+      "lang": "en",
+      "n_citation": 41,
+      "references": [
+        "cbce7ddc-305a-4ac4-a5fd-a95778e3b151",
+        "ea0a39dd-5e9f-46a2-bdc0-b66bec8ae0ff",
+        "ac8105b3-52bc-45db-8f30-9eec3f77d749",
+        "4159b14a-4f8a-44ba-8f95-c343fca8a6e8",
+        "ada2a895-2dbe-453d-9c50-4da455699ab8",
+        "2598e167-24ea-4209-95dc-7f802f592e9f",
+        "4f55d615-9a26-491a-a073-25dd6def78f5",
+        "9545163a-7af0-4dac-96f1-6598264b6a78",
+        "04fb7c4b-83bd-4538-949b-8d09b6f86355",
+        "e59491af-02d4-4f06-83f4-38e5c7844660"
+      ],
+      "title": "Deep RL Applications in Financial Markets",
+      "venue": {
+        "_id": "555037cf7cea80f95419b103",
+        "name": "NAACL",
+        "raw": "NAACL"
+      },
+      "year": 2024,
+      "es_score": 0.375,
+      "qdrant_score": 1.0,
+      "combined_score": 0.892,
+      "query_similarity": 1.0,
+      "final_score": 0.964
+    },
+    {
+      "_id": "d15e3f17-ad9d-412d-bd50-617fdc602591",
+      "abstract": "We introduce a hybrid approach for topic modeling that combines neural word embeddings with density-based clustering. Our method captures nuanced semantic relationships by embedding terms into a low-dimensional space before performing topic extraction. We validate the coherence and relevance of generated topics through both automatic metrics and human evaluation on news and scientific corpora. The model proves especially effective in dealing with short and noisy texts such as social media posts.",
+      "authors": [
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        }
+      ],
+      "doi": "10.1000/b3145658",
+      "fos": [
+        "artificial intelligence",
+        "linguistics"
+      ],
+      "keywords": [
+        "lda",
+        "word2vec",
+        "embedding"
+      ],
+      "lang": "en",
+      "n_citation": 86,
+      "references": [
+        "fe00d672-646a-4003-aa89-b6c1535a1cb5",
+        "143d1293-3fcf-4762-bc55-4a8af0b76d61",
+        "7a7c965a-85d2-42a3-9fbf-574cd5b0b293",
+        "d25d8312-4558-4484-9c05-32df0d3afc53",
+        "eb454698-e597-4d62-94d4-6729911cb84c",
+        "b2191e9d-4371-4001-9681-eb0ca23f4828",
+        "29f29937-3e75-4e78-b60c-10a3af59f282",
+        "e977b35f-c7f1-47b6-b274-319e08d51ab8",
+        "e544dcba-2eae-4c7b-9e37-968b468cee7d",
+        "895ce3a7-2459-4163-9339-a2f11727ee4d",
+        "c4b1c572-f71b-47fc-ae07-d29f597dd41b",
+        "c1262f36-87cc-4f77-9669-b0a569b20e12",
+        "4b430b03-1054-4c77-83ac-5071980d80a5"
+      ],
+      "title": "Topic Modeling via Neural Embedding and Clustering",
+      "venue": {
+        "_id": "555037cf7cea80f95419b104",
+        "name": "ICLR",
+        "raw": "ICLR"
+      },
+      "year": 2015,
+      "es_score": 0.954,
+      "qdrant_score": 1.0,
+      "combined_score": 0.726,
+      "query_similarity": 1.0,
+      "final_score": 0.909
+    },
+    {
+      "_id": "2a59e429-f791-4706-b6e6-0c6b6c979c96",
+      "abstract": "This work addresses cross-lingual named entity recognition (NER) in zero-resource settings using multilingual transformers. Our architecture leverages shared embedding spaces and a label projection mechanism, allowing the model to generalize across languages without additional annotation. We evaluate on several benchmark datasets including WikiAnn and CoNLL, achieving state-of-the-art performance in zero-shot configurations. The model\u2019s ability to adapt rapidly to new languages underscores its practical utility in multilingual environments.",
+      "authors": [
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/b4f91a48",
+      "fos": [
+        "text mining",
+        "information retrieval"
+      ],
+      "keywords": [
+        "ner",
+        "zero-shot",
+        "transfer learning"
+      ],
+      "lang": "en",
+      "n_citation": 74,
+      "references": [
+        "ea585aff-9edb-4145-869f-ee2861189811",
+        "ce595d15-b6a0-4bf0-9da8-5867a1b217f6",
+        "45f1dc89-3f9f-47bb-8571-e7b4f00bfec0",
+        "4302d85d-9761-4851-8049-5708c07353ca",
+        "0d88e190-237e-405b-8670-482e1f047f03",
+        "d1e89404-201f-41c8-bca7-d11661d96f39",
+        "b2b344c0-3f7b-409a-81e9-e1840a99e678",
+        "760050ab-9e43-46b5-9e51-75cfb57ac168",
+        "b7b929b3-050b-4b3f-8627-be440309b34b"
+      ],
+      "title": "Zero-Shot Cross-Lingual NER Using Transformers",
+      "venue": {
+        "_id": "555037cf7cea80f95419b105",
+        "name": "NeurIPS",
+        "raw": "NeurIPS"
+      },
+      "year": 2024,
+      "es_score": 0.012,
+      "qdrant_score": 1.0,
+      "combined_score": 0.717,
+      "query_similarity": 1.0,
+      "final_score": 0.906
+    },
+    {
+      "_id": "f5a4d575-b994-4d51-bb72-d31edbe15452",
+      "abstract": "We explore the impact of pragmatic context modeling in dialogue systems. Building on transformer-based architectures, our proposed model incorporates discourse history, user intents, and conversational structure to produce more contextually coherent responses. Through extensive experiments on multi-turn conversation datasets like MultiWOZ and DailyDialog, we show that our model outperforms existing dialogue frameworks in both automatic and human evaluations. This work bridges the gap between linguistic theory and neural dialogue generation.",
+      "authors": [
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/1a38a40b",
+      "fos": [
+        "machine learning",
+        "natural language processing"
+      ],
+      "keywords": [
+        "transformers",
+        "bert",
+        "nlp"
+      ],
+      "lang": "en",
+      "n_citation": 70,
+      "references": [
+        "54c80a4b-78a8-404b-b931-15f42fe155ba",
+        "f08924bf-0581-4487-bc91-f217e4988fe0",
+        "5ba1dad3-a10e-4f02-9c67-bf8488b29774",
+        "f218997e-69cb-4703-a189-b21e61a37c4d",
+        "0a12b655-a7b5-41b6-9f0b-1f20fc3b26a2",
+        "94d4071f-5871-4a60-94a7-31fb347649e1",
+        "335b9cd8-c221-408f-adf8-2f01c5b7bbf4",
+        "1a4b9bcc-6649-4a25-9f41-5cf3ab86eedc"
+      ],
+      "title": "Improving Dialogue Agents with Pragmatic Context Modeling",
+      "venue": {
+        "_id": "555037cf7cea80f95419b101",
+        "name": "ACL",
+        "raw": "ACL"
+      },
+      "year": 2021,
+      "es_score": 0.933,
+      "qdrant_score": 1.0,
+      "combined_score": 0.527,
+      "query_similarity": 1.0,
+      "final_score": 0.842
+    },
+    {
+      "_id": "be61bd0d-7128-4b6a-a52f-7d79b5114b03",
+      "abstract": "Our paper proposes a novel architecture for hierarchical text classification that combines convolutional neural networks (CNNs) for local feature extraction with recurrent neural networks (RNNs) for sequence modeling. We introduce an attention mechanism tailored for hierarchy-aware label predictions. Experiments on benchmark datasets such as RCV1 and Yelp Reviews demonstrate the effectiveness of our hybrid model in handling deeply nested label structures. The proposed model shows superior performance over flat classification baselines.",
+      "authors": [
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        }
+      ],
+      "doi": "10.1000/7760351f",
+      "fos": [
+        "deep learning",
+        "computer vision"
+      ],
+      "keywords": [
+        "translation",
+        "language models",
+        "multilingual"
+      ],
+      "lang": "en",
+      "n_citation": 34,
+      "references": [
+        "7906cd5d-d320-4b78-85a5-f63ceb8275f7",
+        "cf6c77e7-e091-497c-9545-05742828654f",
+        "850f96a7-4722-4ea6-b193-48a13e1426d6",
+        "b902cc80-0bba-41a4-863f-20abae59ebde",
+        "7f471ba3-2b88-4d12-84a1-fe2ac03ee4d0",
+        "84292d46-de20-4e43-a569-329849bba551",
+        "df831423-1da7-41d4-bd0e-4d064c83161e",
+        "be3b4c27-be41-4491-8aba-9bd0607558f1",
+        "2d086826-1ab5-4b14-8250-0ce88a3da2c7"
+      ],
+      "title": "Hierarchical Text Classification Using CNN-RNN Hybrids",
+      "venue": {
+        "_id": "555037cf7cea80f95419b102",
+        "name": "EMNLP",
+        "raw": "EMNLP"
+      },
+      "year": 2013,
+      "es_score": 0.806,
+      "qdrant_score": 1.0,
+      "combined_score": 0.653,
+      "query_similarity": 1.0,
+      "final_score": 0.884
+    },
+    {
+      "_id": "2a28f491-e318-4322-9150-95423873f076",
+      "abstract": "This paper presents an advanced document summarization framework using semantic transformers and latent graph attention. We propose a two-phase summarization mechanism where a graph encoder captures inter-sentence semantic relations and a transformer decoder generates abstractive summaries. Tested on CNN/DailyMail and XSum, our method achieves superior ROUGE and BERTScore values compared to previous methods. The model excels in capturing salient points and generating fluent, human-like summaries.",
+      "authors": [
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/da059ea8",
+      "fos": [
+        "reinforcement learning",
+        "economics"
+      ],
+      "keywords": [
+        "stock prediction",
+        "q-learning",
+        "markets"
+      ],
+      "lang": "en",
+      "n_citation": 12,
+      "references": [
+        "5e78db61-791e-4f03-9179-744c7ca09362",
+        "d6a3cec4-f282-4363-a753-c2c0fd167360",
+        "ee23027d-e6ec-4910-937c-76460309ffa8",
+        "495c1544-becf-4749-b509-0e8ee6abd825",
+        "77bfe673-5df4-435b-a253-5cde8db9eac3",
+        "85457fae-2c74-453e-ac49-511525dc3b5e",
+        "e7c5d4ac-2da3-413d-a09c-a8f13762da28",
+        "05993ae7-9d71-460b-9c43-6aebfd8aad7c"
+      ],
+      "title": "Document Summarization with Semantic Transformers",
+      "venue": {
+        "_id": "555037cf7cea80f95419b103",
+        "name": "NAACL",
+        "raw": "NAACL"
+      },
+      "year": 2013,
+      "es_score": 0.828,
+      "qdrant_score": 1.0,
+      "combined_score": 0.701,
+      "query_similarity": 1.0,
+      "final_score": 0.9
+    },
+    {
+      "_id": "a7aa4206-a8d4-45a3-b9d3-01b002af1c56",
+      "abstract": "We introduce a domain-adaptive sentiment analysis framework using fine-tuned large language models. Our method employs contrastive learning on domain-specific representations and a lightweight adapter layer for domain shift correction. Experiments on Amazon, Yelp, and Twitter datasets show that the model maintains sentiment accuracy even in the presence of significant domain drift. This demonstrates its ability to generalize across diverse sentiment-bearing content while minimizing the need for retraining.",
+      "authors": [
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        }
+      ],
+      "doi": "10.1000/d1f82a01",
+      "fos": [
+        "artificial intelligence",
+        "linguistics"
+      ],
+      "keywords": [
+        "lda",
+        "word2vec",
+        "embedding"
+      ],
+      "lang": "en",
+      "n_citation": 31,
+      "references": [
+        "d569e11b-ecf8-4071-8886-fcb1e533bbb2",
+        "6dc6de0a-158b-46d1-80c0-c7135cfeb7bf",
+        "406d5e2d-e13f-4b2b-8fe5-8a5869055174",
+        "f4640924-4344-4e67-b25b-e38e028097fa",
+        "b02f7968-bc24-42a9-a3e9-de3343c7a540",
+        "1d862922-6262-4f9d-b12a-00169eef89d9",
+        "7e559f8f-b5c0-4c92-9d46-494287bd421e",
+        "f3be42a2-7ed1-4019-8b1d-249dff846686",
+        "5d8b95c4-01ac-458b-aec6-0fd0c6ea7452",
+        "a2e92755-dcb3-4107-8bc8-1f241d9ae4ad",
+        "deaf636a-0ea6-4133-bd61-dc38df22af9a",
+        "07a0010e-e6b0-44bd-a6b2-113a82d55bbc"
+      ],
+      "title": "Domain-Adaptive Sentiment Analysis with LLMs",
+      "venue": {
+        "_id": "555037cf7cea80f95419b104",
+        "name": "ICLR",
+        "raw": "ICLR"
+      },
+      "year": 2019,
+      "es_score": 0.896,
+      "qdrant_score": 1.0,
+      "combined_score": 0.551,
+      "query_similarity": 1.0,
+      "final_score": 0.85
+    },
+    {
+      "_id": "d4d6e5e8-0a85-4be2-b73c-e1249427a07c",
+      "abstract": "This study proposes a hybrid question answering (QA) framework that integrates neural models with symbolic commonsense reasoning. We construct a knowledge-enhanced retrieval system where external knowledge bases are fused with pre-trained transformer QA models. Our system answers complex natural language questions by leveraging structured commonsense graphs. Evaluations on the CommonsenseQA and OpenBookQA datasets confirm the effectiveness of our approach in addressing reasoning-intensive QA tasks.",
+      "authors": [
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        }
+      ],
+      "doi": "10.1000/ceff2c2a",
+      "fos": [
+        "text mining",
+        "information retrieval"
+      ],
+      "keywords": [
+        "ner",
+        "zero-shot",
+        "transfer learning"
+      ],
+      "lang": "en",
+      "n_citation": 68,
+      "references": [
+        "489a8635-89bd-4578-80b3-8b9f01d12e1b",
+        "3f439ea6-0c85-428b-8e3e-704b86fab611",
+        "29fcc331-badf-4e45-afc7-d01b71b32552",
+        "cdb620e4-ed06-46e7-b56b-09fad3ca0f85",
+        "35b662b0-3eb7-4cd7-8360-1e3ad11d46cc",
+        "1a3870da-48d4-42dd-9a19-5cf65165f001",
+        "6c9fc719-c703-4932-a0a5-21a4c80b1604",
+        "cb214292-f0bd-49a7-88db-ae50ee3d3d3e",
+        "37abad77-fbfb-4e4a-ba88-e1361a75ff79",
+        "e1d4c140-494f-465d-99db-8e2f918ecc8c"
+      ],
+      "title": "Commonsense-Driven QA through Neural-Symbolic Reasoning",
+      "venue": {
+        "_id": "555037cf7cea80f95419b105",
+        "name": "NeurIPS",
+        "raw": "NeurIPS"
+      },
+      "year": 2019,
+      "es_score": 0.586,
+      "qdrant_score": 1.0,
+      "combined_score": 0.434,
+      "query_similarity": 1.0,
+      "final_score": 0.811
+    },
+    {
+      "_id": "b1a94fc7-b056-45dc-9f22-011c694fe7e2",
+      "abstract": "This study introduces a novel semantic graph-based framework for enhanced language understanding. By constructing a dynamic linguistic graph that models dependencies between syntactic and semantic units, our method outperforms traditional parsing techniques in complex sentence interpretation. We conduct experiments across three benchmark NLP datasets, showing significant improvements in tasks including named entity recognition and semantic role labeling. The results demonstrate the robustness of our approach in capturing long-range dependencies and contextual cues.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/c6b04e0b",
+      "fos": [
+        "machine learning",
+        "natural language processing"
+      ],
+      "keywords": [
+        "transformers",
+        "bert",
+        "nlp"
+      ],
+      "lang": "en",
+      "n_citation": 51,
+      "references": [
+        "1537c521-619d-4d8b-ae96-30a9c852d8d7",
+        "1210b264-f1d2-40d2-9d79-0911a79be867",
+        "187256d8-7e2c-4b07-aed4-aa52627ae243",
+        "00d205ee-74d0-48c3-af9a-1c3d8a8f5402",
+        "1088dd2b-79e4-4ce0-b77e-79a5750e1265",
+        "55ccaa90-c64c-4e03-8695-abe3843bdca0",
+        "fe7b5ab3-988a-4073-8288-f78d962fde25",
+        "2d8c67a4-5ddd-40c7-893a-4cba9815092a",
+        "f363f8fb-5970-4b28-a3f1-9d488859fbe3",
+        "ba92b553-e989-4aa7-88b2-133830e9a17c",
+        "0fd0105b-389e-4192-a6af-fb3ef5245a7e"
+      ],
+      "title": "Semantic Graph Modeling for Enhanced Language Understanding",
+      "venue": {
+        "_id": "555037cf7cea80f95419b101",
+        "name": "ACL",
+        "raw": "ACL"
+      },
+      "year": 2012,
+      "es_score": 0.544,
+      "qdrant_score": 1.0,
+      "combined_score": 0.598,
+      "query_similarity": 1.0,
+      "final_score": 0.866
+    },
+    {
+      "_id": "4308c02f-df97-4a81-986f-4759f72cc0d3",
+      "abstract": "We propose a new method for multilingual translation by integrating transformer-based large language models (LLMs) into standard translation pipelines. Our system leverages language-specific adapters and attention refinements to ensure consistency and fluency across diverse language pairs. Evaluations on the WMT and IWSLT datasets reveal that our method significantly outperforms existing baselines, especially in low-resource language settings. The paper also provides a comparative error analysis and discusses implications for future multilingual systems.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        }
+      ],
+      "doi": "10.1000/f7c33173",
+      "fos": [
+        "deep learning",
+        "computer vision"
+      ],
+      "keywords": [
+        "translation",
+        "language models",
+        "multilingual"
+      ],
+      "lang": "en",
+      "n_citation": 56,
+      "references": [
+        "d9b351c4-37e2-4969-b9b4-e8d16002b706",
+        "36b9482a-b3fb-4cd3-97a7-c413ab13604f",
+        "d0483e2b-0464-4a88-b517-4dfb1d7c1beb",
+        "2abf85c0-e681-455a-addd-9ee79e10a736",
+        "062f0178-8e68-44ec-aa0f-0a18424fa413",
+        "85e718d0-54e2-4b3b-881e-ab80acc637bf",
+        "3855eea2-44a7-4f2a-9750-a6d4ac099685",
+        "821d75b8-36fb-4069-90b1-4ed8a0029cea",
+        "303c9717-76e8-4845-a3cf-571f5981f671",
+        "eb0604ef-ff91-41e0-ade8-9ce18c1d6e9c",
+        "eac7da5b-49c9-4187-bdec-1bcf356794c0"
+      ],
+      "title": "Multilingual Translation with Enhanced LLM Integration",
+      "venue": {
+        "_id": "555037cf7cea80f95419b102",
+        "name": "EMNLP",
+        "raw": "EMNLP"
+      },
+      "year": 2016,
+      "es_score": 0.822,
+      "qdrant_score": 1.0,
+      "combined_score": 0.519,
+      "query_similarity": 1.0,
+      "final_score": 0.84
+    },
+    {
+      "_id": "2c6e1214-b252-447d-b51e-2830c92331bf",
+      "abstract": "This paper presents a deep reinforcement learning (DRL) model for simulating financial market dynamics. We design a multi-agent trading environment where each agent learns distinct trading strategies under varied risk preferences. The DRL model incorporates stochastic volatility, reward shaping, and market feedback to simulate real-world trading scenarios. Experimental results highlight the model\u2019s capability to generalize across different market conditions and achieve profitable performance compared to rule-based strategies.",
+      "authors": [
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/aebe4646",
+      "fos": [
+        "reinforcement learning",
+        "economics"
+      ],
+      "keywords": [
+        "stock prediction",
+        "q-learning",
+        "markets"
+      ],
+      "lang": "en",
+      "n_citation": 68,
+      "references": [
+        "569cc100-4499-4a90-852e-f656d0b47e7b",
+        "9afbf5ac-2360-4c61-b45a-8eed5fa6236a",
+        "0ba604ae-2275-4ed3-aaa5-af4038c2d045",
+        "04321f89-1bc0-41d3-8816-86f1ce9b6374",
+        "4cb05e49-ee55-430f-a1ff-05deaee8fad4",
+        "048ef4b7-2ba5-40d4-95f2-d5c52b7a679d",
+        "bed0b170-9b0f-4879-82c9-540ead87d994",
+        "a3674a6a-ec18-40d2-8ca8-bbf80efc6012",
+        "69405d19-e43a-4533-aa9a-95b861069e4e"
+      ],
+      "title": "Deep RL Applications in Financial Markets",
+      "venue": {
+        "_id": "555037cf7cea80f95419b103",
+        "name": "NAACL",
+        "raw": "NAACL"
+      },
+      "year": 2021,
+      "es_score": 0.916,
+      "qdrant_score": 1.0,
+      "combined_score": 0.784,
+      "query_similarity": 1.0,
+      "final_score": 0.928
+    },
+    {
+      "_id": "b9ee86b3-d0df-4e32-befd-51f1b2f0fa89",
+      "abstract": "We introduce a hybrid approach for topic modeling that combines neural word embeddings with density-based clustering. Our method captures nuanced semantic relationships by embedding terms into a low-dimensional space before performing topic extraction. We validate the coherence and relevance of generated topics through both automatic metrics and human evaluation on news and scientific corpora. The model proves especially effective in dealing with short and noisy texts such as social media posts.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        }
+      ],
+      "doi": "10.1000/c9067f45",
+      "fos": [
+        "artificial intelligence",
+        "linguistics"
+      ],
+      "keywords": [
+        "lda",
+        "word2vec",
+        "embedding"
+      ],
+      "lang": "en",
+      "n_citation": 63,
+      "references": [
+        "f71c27d6-5416-4bc9-b1d4-d3622320d528",
+        "0fc4321e-e008-4af0-a595-d49d5459a3b5",
+        "fb33d45e-7d46-425f-a6fc-5b3af29ac967",
+        "f8a94a18-b453-4978-b74e-65518defbea7",
+        "5d63eb18-9e34-4ee5-816d-b68de4c554b8",
+        "8df34cad-0a2b-4fac-a6e5-8f59f328b017",
+        "ab4a6b6a-c5c4-41d3-b09b-67697f7ce5b3",
+        "f03c16ff-2db3-4015-a9dc-0b57096541a7"
+      ],
+      "title": "Topic Modeling via Neural Embedding and Clustering",
+      "venue": {
+        "_id": "555037cf7cea80f95419b104",
+        "name": "ICLR",
+        "raw": "ICLR"
+      },
+      "year": 2016,
+      "es_score": 0.704,
+      "qdrant_score": 1.0,
+      "combined_score": 0.403,
+      "query_similarity": 1.0,
+      "final_score": 0.801
+    },
+    {
+      "_id": "811d0355-a69f-4fd6-9cc5-cf04da8cadee",
+      "abstract": "This work addresses cross-lingual named entity recognition (NER) in zero-resource settings using multilingual transformers. Our architecture leverages shared embedding spaces and a label projection mechanism, allowing the model to generalize across languages without additional annotation. We evaluate on several benchmark datasets including WikiAnn and CoNLL, achieving state-of-the-art performance in zero-shot configurations. The model\u2019s ability to adapt rapidly to new languages underscores its practical utility in multilingual environments.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        }
+      ],
+      "doi": "10.1000/240f4090",
+      "fos": [
+        "text mining",
+        "information retrieval"
+      ],
+      "keywords": [
+        "ner",
+        "zero-shot",
+        "transfer learning"
+      ],
+      "lang": "en",
+      "n_citation": 20,
+      "references": [
+        "49b691f2-516d-4e12-bdc6-442c939f935a",
+        "4e3cd8d6-6f90-4670-a21d-ac6de1d1a96f",
+        "95ccc4e5-49f8-418a-9851-ba201d27f85b",
+        "5dd0085d-84b3-408e-8eb9-f334f1db2217",
+        "9bf3ab69-3583-4d0e-b804-1e5fa9cb9438",
+        "d069c0c0-48f3-479d-81c7-07363fae6e6e",
+        "61c8c936-0689-4a48-b260-36afb75b7420",
+        "da9a7a7d-9d45-4fde-a20b-e39bf198df1a",
+        "170c8342-dea3-4ba7-8d4d-bb50a0c3e10a",
+        "90beb7ff-b78a-4a6a-bbb1-12c17131ffa1"
+      ],
+      "title": "Zero-Shot Cross-Lingual NER Using Transformers",
+      "venue": {
+        "_id": "555037cf7cea80f95419b105",
+        "name": "NeurIPS",
+        "raw": "NeurIPS"
+      },
+      "year": 2023,
+      "es_score": 0.168,
+      "qdrant_score": 1.0,
+      "combined_score": 0.403,
+      "query_similarity": 1.0,
+      "final_score": 0.801
+    },
+    {
+      "_id": "0e8ffa24-3125-4fb0-9cb3-fd547ffcf994",
+      "abstract": "We explore the impact of pragmatic context modeling in dialogue systems. Building on transformer-based architectures, our proposed model incorporates discourse history, user intents, and conversational structure to produce more contextually coherent responses. Through extensive experiments on multi-turn conversation datasets like MultiWOZ and DailyDialog, we show that our model outperforms existing dialogue frameworks in both automatic and human evaluations. This work bridges the gap between linguistic theory and neural dialogue generation.",
+      "authors": [
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        }
+      ],
+      "doi": "10.1000/eae74230",
+      "fos": [
+        "machine learning",
+        "natural language processing"
+      ],
+      "keywords": [
+        "transformers",
+        "bert",
+        "nlp"
+      ],
+      "lang": "en",
+      "n_citation": 86,
+      "references": [
+        "8d5890c9-4a9a-4941-9c57-d4d08de36838",
+        "c116d890-a3b6-4c8e-a589-a2dd593e870a",
+        "17d1d382-2276-4789-8163-c6863a0ae206",
+        "c79603b1-32fe-45b0-b578-df2f687a4193",
+        "9ce969f0-f753-440a-bb09-0bf0ce4c81f1",
+        "aa963b24-38a0-40ee-9870-98752c3b8e65",
+        "31f66035-3f20-4168-8bb6-60bd01578552",
+        "fcffb179-b2e9-4f87-bcae-fb30140da74a",
+        "0d75e914-293f-4f77-9d1b-0b34cda90168",
+        "526bda34-1de0-4a52-8a5a-4718ad95f8ff",
+        "6f933b1c-44a7-4f7a-bc17-1b5e4aedc014",
+        "e02554bb-fc09-4f93-aa2f-56cbb37dd66f",
+        "3691ad39-2df7-4218-bf39-f98756ae3664",
+        "2bdb1d98-479b-4589-ad47-bb18cb7daae5"
+      ],
+      "title": "Improving Dialogue Agents with Pragmatic Context Modeling",
+      "venue": {
+        "_id": "555037cf7cea80f95419b101",
+        "name": "ACL",
+        "raw": "ACL"
+      },
+      "year": 2023,
+      "es_score": 0.292,
+      "qdrant_score": 1.0,
+      "combined_score": 0.602,
+      "query_similarity": 1.0,
+      "final_score": 0.867
+    },
+    {
+      "_id": "834d205e-624d-434a-ad18-05a71f4429d7",
+      "abstract": "Our paper proposes a novel architecture for hierarchical text classification that combines convolutional neural networks (CNNs) for local feature extraction with recurrent neural networks (RNNs) for sequence modeling. We introduce an attention mechanism tailored for hierarchy-aware label predictions. Experiments on benchmark datasets such as RCV1 and Yelp Reviews demonstrate the effectiveness of our hybrid model in handling deeply nested label structures. The proposed model shows superior performance over flat classification baselines.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        }
+      ],
+      "doi": "10.1000/347f6c44",
+      "fos": [
+        "deep learning",
+        "computer vision"
+      ],
+      "keywords": [
+        "translation",
+        "language models",
+        "multilingual"
+      ],
+      "lang": "en",
+      "n_citation": 93,
+      "references": [
+        "fe4486c3-68ca-41a0-85ac-d1cd836aa9e4",
+        "2e1ff1e2-3bb0-41aa-9f92-444c407cb74b",
+        "07856376-dd05-4d67-9dc7-57c953b7383e",
+        "6ab8a51f-4a4e-4802-8c54-9ee9bc68f449",
+        "c60fdbba-1e6b-4ee1-b1b0-6df9cda467c6",
+        "d14b2326-7b7c-46a6-bd44-f915dd153217",
+        "02dac27d-34a7-4de5-904c-6ee8264d5449",
+        "175bb745-808b-4cb6-82ec-4378822aa1c0",
+        "0139f6dd-ddc3-413b-8ba0-9b9cca0c1ab6"
+      ],
+      "title": "Hierarchical Text Classification Using CNN-RNN Hybrids",
+      "venue": {
+        "_id": "555037cf7cea80f95419b102",
+        "name": "EMNLP",
+        "raw": "EMNLP"
+      },
+      "year": 2021,
+      "es_score": 0.902,
+      "qdrant_score": 1.0,
+      "combined_score": 0.661,
+      "query_similarity": 1.0,
+      "final_score": 0.887
+    },
+    {
+      "_id": "5a358cc9-d5d2-477e-a44f-51cb0a0e67ae",
+      "abstract": "This paper presents an advanced document summarization framework using semantic transformers and latent graph attention. We propose a two-phase summarization mechanism where a graph encoder captures inter-sentence semantic relations and a transformer decoder generates abstractive summaries. Tested on CNN/DailyMail and XSum, our method achieves superior ROUGE and BERTScore values compared to previous methods. The model excels in capturing salient points and generating fluent, human-like summaries.",
+      "authors": [
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        }
+      ],
+      "doi": "10.1000/ffde6173",
+      "fos": [
+        "reinforcement learning",
+        "economics"
+      ],
+      "keywords": [
+        "stock prediction",
+        "q-learning",
+        "markets"
+      ],
+      "lang": "en",
+      "n_citation": 38,
+      "references": [
+        "ec72c7cd-89c8-4e22-86f7-42c2e9f71fcd",
+        "0adf0147-34d7-4be4-b223-ca95989422c3",
+        "dad88612-f924-4e80-bb47-19920e391c70",
+        "ed364746-a096-4990-b36e-0870afb29f6e",
+        "77329dfb-1f3f-4233-9e44-3c2adfc7dacf",
+        "ea361a67-d130-4a60-9fe4-1e2bedf6cc22",
+        "e9a705a4-410c-4923-981c-343d61de6508",
+        "5c2af1ce-b38a-48a4-aa9d-d9654ee45d81",
+        "6e63c29d-376e-4368-b845-6ea1e39b2898",
+        "a898f708-cca7-47a4-a291-39030460563a",
+        "30e57f9c-bc70-42f7-888d-6940b05b064e",
+        "f512cfde-c10a-4f47-99a9-5b56ef06ea85",
+        "39d06995-a11d-4d80-a13a-843c24631685",
+        "29f2af2f-c607-4f01-8b21-7ecb50147558"
+      ],
+      "title": "Document Summarization with Semantic Transformers",
+      "venue": {
+        "_id": "555037cf7cea80f95419b103",
+        "name": "NAACL",
+        "raw": "NAACL"
+      },
+      "year": 2015,
+      "es_score": 0.356,
+      "qdrant_score": 1.0,
+      "combined_score": 0.857,
+      "query_similarity": 1.0,
+      "final_score": 0.952
+    },
+    {
+      "_id": "0cdb9d35-750f-4e68-bcd8-69480cc9e7d8",
+      "abstract": "We introduce a domain-adaptive sentiment analysis framework using fine-tuned large language models. Our method employs contrastive learning on domain-specific representations and a lightweight adapter layer for domain shift correction. Experiments on Amazon, Yelp, and Twitter datasets show that the model maintains sentiment accuracy even in the presence of significant domain drift. This demonstrates its ability to generalize across diverse sentiment-bearing content while minimizing the need for retraining.",
+      "authors": [
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        }
+      ],
+      "doi": "10.1000/9c27c8e9",
+      "fos": [
+        "artificial intelligence",
+        "linguistics"
+      ],
+      "keywords": [
+        "lda",
+        "word2vec",
+        "embedding"
+      ],
+      "lang": "en",
+      "n_citation": 79,
+      "references": [
+        "aaabef62-11dd-4030-aefc-50be17d6f153",
+        "aaab45fd-bc02-4986-afac-d60500631ee0",
+        "c4ca203c-39d4-448a-86d5-67cfa60a4f5c",
+        "91feaf33-1fd8-4b7b-a16d-e95b90484224",
+        "cd95b134-64f9-4798-84f1-3b316d3602f0",
+        "2cb34459-7efb-4630-8e5b-9bd7cac7adf6",
+        "5d56588f-d32a-490d-be84-33821ef81a5f",
+        "6eddacbf-b253-40a5-8674-8463a26de980",
+        "ff6111e9-bbe9-4b06-a0a3-7907d23ea6a2",
+        "2d675b91-9bbd-4818-ad13-c636c6901e21",
+        "10ed595c-250e-42db-adf2-5d417c72b2e2",
+        "35c1b84e-d3e5-496e-bb93-a7cfb50f644a",
+        "b1e32c59-096e-46dd-99ed-0200f651b6ba",
+        "eaa29487-39c5-4882-b1f3-2ddc6985b457"
+      ],
+      "title": "Domain-Adaptive Sentiment Analysis with LLMs",
+      "venue": {
+        "_id": "555037cf7cea80f95419b104",
+        "name": "ICLR",
+        "raw": "ICLR"
+      },
+      "year": 2013,
+      "es_score": 0.233,
+      "qdrant_score": 1.0,
+      "combined_score": 0.462,
+      "query_similarity": 1.0,
+      "final_score": 0.821
+    },
+    {
+      "_id": "a3d79df6-2fd2-4734-b8c6-ff527693bb24",
+      "abstract": "This study proposes a hybrid question answering (QA) framework that integrates neural models with symbolic commonsense reasoning. We construct a knowledge-enhanced retrieval system where external knowledge bases are fused with pre-trained transformer QA models. Our system answers complex natural language questions by leveraging structured commonsense graphs. Evaluations on the CommonsenseQA and OpenBookQA datasets confirm the effectiveness of our approach in addressing reasoning-intensive QA tasks.",
+      "authors": [
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        }
+      ],
+      "doi": "10.1000/b69f11e0",
+      "fos": [
+        "text mining",
+        "information retrieval"
+      ],
+      "keywords": [
+        "ner",
+        "zero-shot",
+        "transfer learning"
+      ],
+      "lang": "en",
+      "n_citation": 36,
+      "references": [
+        "2a74587c-7191-42a8-b797-c054028b99dc",
+        "dad1eea0-a10d-42b4-80ee-11a5acede299",
+        "0a0818c2-77b6-4036-b296-af7d3785e48f",
+        "f9f1ab82-de2b-43ef-acb7-e9d766aebc93",
+        "af245425-a78a-482f-8c87-f02881d5026c",
+        "5a482fbe-c564-4f8a-98d4-29a2248b8a1f",
+        "c9f5aa07-6e75-4fd6-b950-73bcadeac624",
+        "befc7b2c-cdd3-43ea-8fa0-6558bb796c36",
+        "d4122f54-da8d-4aec-94c6-23c9ce58eb85",
+        "77fbe856-c797-417e-ab27-44a78b48e76f",
+        "5391f5bf-b67e-498f-8874-58b239024bb5",
+        "037068da-2de4-45e6-8f9c-853bc499fc71",
+        "e6e3c9fe-d6ff-460e-9c44-fc3679d26ee2"
+      ],
+      "title": "Commonsense-Driven QA through Neural-Symbolic Reasoning",
+      "venue": {
+        "_id": "555037cf7cea80f95419b105",
+        "name": "NeurIPS",
+        "raw": "NeurIPS"
+      },
+      "year": 2018,
+      "es_score": 0.733,
+      "qdrant_score": 1.0,
+      "combined_score": 0.565,
+      "query_similarity": 1.0,
+      "final_score": 0.855
+    },
+    {
+      "_id": "9f144b41-a6a6-43b7-9558-f5a598fc8b18",
+      "abstract": "This study introduces a novel semantic graph-based framework for enhanced language understanding. By constructing a dynamic linguistic graph that models dependencies between syntactic and semantic units, our method outperforms traditional parsing techniques in complex sentence interpretation. We conduct experiments across three benchmark NLP datasets, showing significant improvements in tasks including named entity recognition and semantic role labeling. The results demonstrate the robustness of our approach in capturing long-range dependencies and contextual cues.",
+      "authors": [
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        }
+      ],
+      "doi": "10.1000/5a828769",
+      "fos": [
+        "machine learning",
+        "natural language processing"
+      ],
+      "keywords": [
+        "transformers",
+        "bert",
+        "nlp"
+      ],
+      "lang": "en",
+      "n_citation": 61,
+      "references": [
+        "3a4edc43-9325-45af-8bf1-3d18cac12c0b",
+        "bde40b3b-cfa8-44fa-b22f-da6e53b3f3bd",
+        "92b0094a-65c9-49bf-ae8d-7754c5369eed",
+        "f3bcc469-2707-4365-8daa-87b0c23c78f3",
+        "b8f1ac7c-93e3-469a-b564-2ba005967ec4",
+        "6a08a15a-cba5-4969-9990-fc6e9bf23c55",
+        "11bdb305-9473-439f-a524-2a6c24ab6891",
+        "114c72a9-a7a6-490d-aab8-07fb095f8779",
+        "04c2f99b-f164-4703-a2b6-01750cdc841a",
+        "a351d18c-12c6-4517-803a-6a19d6d06c89",
+        "8befa67f-baea-46e7-8ee3-f983035bb11c",
+        "5dd378ee-0f4b-43a6-91e4-f3e663e36e3b",
+        "987aca59-02bc-4c1b-8aa4-9ef8d1139a1d",
+        "6e6f6f5f-5d2b-4703-b099-0e1ea1722f46"
+      ],
+      "title": "Semantic Graph Modeling for Enhanced Language Understanding",
+      "venue": {
+        "_id": "555037cf7cea80f95419b101",
+        "name": "ACL",
+        "raw": "ACL"
+      },
+      "year": 2018,
+      "es_score": 0.885,
+      "qdrant_score": 1.0,
+      "combined_score": 0.404,
+      "query_similarity": 1.0,
+      "final_score": 0.801
+    },
+    {
+      "_id": "24b8ea14-3dd6-46e9-9bc4-92b8524f84de",
+      "abstract": "We propose a new method for multilingual translation by integrating transformer-based large language models (LLMs) into standard translation pipelines. Our system leverages language-specific adapters and attention refinements to ensure consistency and fluency across diverse language pairs. Evaluations on the WMT and IWSLT datasets reveal that our method significantly outperforms existing baselines, especially in low-resource language settings. The paper also provides a comparative error analysis and discusses implications for future multilingual systems.",
+      "authors": [
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        },
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        }
+      ],
+      "doi": "10.1000/2de6c994",
+      "fos": [
+        "deep learning",
+        "computer vision"
+      ],
+      "keywords": [
+        "translation",
+        "language models",
+        "multilingual"
+      ],
+      "lang": "en",
+      "n_citation": 13,
+      "references": [
+        "945baa13-90e1-46e3-a623-3913ccead911",
+        "5cb6f98c-8e1e-454e-b7eb-602fd4d37605",
+        "d4115c0c-f307-4031-a92d-ff1871393d9c",
+        "19f62e39-15dd-4df7-ab0b-c248a1c4d534",
+        "d9b64660-b878-433e-ab69-8464d7071088",
+        "c95766ff-f50e-441a-929c-32b17faa86ba",
+        "9d7c583d-8b42-4d05-9428-f0a21a1da6eb",
+        "61c14c72-414c-4994-a7c1-1cc00aa46c8c"
+      ],
+      "title": "Multilingual Translation with Enhanced LLM Integration",
+      "venue": {
+        "_id": "555037cf7cea80f95419b102",
+        "name": "EMNLP",
+        "raw": "EMNLP"
+      },
+      "year": 2019,
+      "es_score": 0.537,
+      "qdrant_score": 1.0,
+      "combined_score": 0.697,
+      "query_similarity": 1.0,
+      "final_score": 0.899
+    },
+    {
+      "_id": "0c6bbeb9-60c4-4545-aaf0-6d2e16e7cec2",
+      "abstract": "This paper presents a deep reinforcement learning (DRL) model for simulating financial market dynamics. We design a multi-agent trading environment where each agent learns distinct trading strategies under varied risk preferences. The DRL model incorporates stochastic volatility, reward shaping, and market feedback to simulate real-world trading scenarios. Experimental results highlight the model\u2019s capability to generalize across different market conditions and achieve profitable performance compared to rule-based strategies.",
+      "authors": [
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth1",
+          "name": "Alice Smith",
+          "org": "MIT",
+          "orgid": "org1"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        }
+      ],
+      "doi": "10.1000/9b978382",
+      "fos": [
+        "reinforcement learning",
+        "economics"
+      ],
+      "keywords": [
+        "stock prediction",
+        "q-learning",
+        "markets"
+      ],
+      "lang": "en",
+      "n_citation": 74,
+      "references": [
+        "7efe6b6e-ac24-4d4f-b2dc-a20add67ffda",
+        "946545e2-c1d5-4dd5-8217-6f83f28232c6",
+        "08e1e9fc-2e19-4526-9032-ddb71b8742dd",
+        "14f9b491-1975-4bf3-83a2-b3ce7fd4df12",
+        "3d771b9e-533e-4e79-9796-0d4dca9523f6",
+        "99d3458a-4896-4dc7-bed8-1c18fe4afc7b",
+        "dcba351c-698e-4235-8c18-33df78a47c9e",
+        "88b0db1b-0549-4247-8961-9cf14d24ab2d",
+        "c36c334a-866b-4a63-919b-cb791d0903aa",
+        "e8bbf5c4-c675-4a77-b676-31ca8987a79a"
+      ],
+      "title": "Deep RL Applications in Financial Markets",
+      "venue": {
+        "_id": "555037cf7cea80f95419b103",
+        "name": "NAACL",
+        "raw": "NAACL"
+      },
+      "year": 2017,
+      "es_score": 0.629,
+      "qdrant_score": 1.0,
+      "combined_score": 0.632,
+      "query_similarity": 1.0,
+      "final_score": 0.877
+    },
+    {
+      "_id": "40b4424a-e1bf-4a29-bcc6-069bdb74bf70",
+      "abstract": "We introduce a hybrid approach for topic modeling that combines neural word embeddings with density-based clustering. Our method captures nuanced semantic relationships by embedding terms into a low-dimensional space before performing topic extraction. We validate the coherence and relevance of generated topics through both automatic metrics and human evaluation on news and scientific corpora. The model proves especially effective in dealing with short and noisy texts such as social media posts.",
+      "authors": [
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        },
+        {
+          "_id": "auth5",
+          "name": "Eva Green",
+          "org": "Cambridge University",
+          "orgid": "org5"
+        }
+      ],
+      "doi": "10.1000/8c99ab66",
+      "fos": [
+        "artificial intelligence",
+        "linguistics"
+      ],
+      "keywords": [
+        "lda",
+        "word2vec",
+        "embedding"
+      ],
+      "lang": "en",
+      "n_citation": 36,
+      "references": [
+        "ff9031c9-ad2a-43bb-acf4-a88118c802c7",
+        "a4342fb2-1c95-425a-ac52-77627d4f31f7",
+        "51a236dc-bf85-405f-acf2-21e162df16e1",
+        "a6554f10-55db-4534-8436-d8d8241b69e3",
+        "7579ec9e-0c02-469f-9341-ebf96f3900f5",
+        "7da49b2f-85a2-4272-9d6b-18829a7259e5",
+        "93ed06fa-53c9-4fcd-9047-1a1c2960f7df",
+        "21eb8039-c9bb-4e6e-bf35-35c2f806cb3f",
+        "d9ba721a-c64b-465d-ab23-2879b215bdf6",
+        "c71a4242-d8f2-4c69-9f16-5ecf99054bee",
+        "76893e8d-5c9f-47b0-b608-01178c885b9a",
+        "897e6a88-ac86-4acc-b5fb-49f62ff3f3a9"
+      ],
+      "title": "Topic Modeling via Neural Embedding and Clustering",
+      "venue": {
+        "_id": "555037cf7cea80f95419b104",
+        "name": "ICLR",
+        "raw": "ICLR"
+      },
+      "year": 2019,
+      "es_score": 0.15,
+      "qdrant_score": 1.0,
+      "combined_score": 0.85,
+      "query_similarity": 1.0,
+      "final_score": 0.95
+    },
+    {
+      "_id": "6d50bf71-5afc-46d5-870f-697265f71bff",
+      "abstract": "This work addresses cross-lingual named entity recognition (NER) in zero-resource settings using multilingual transformers. Our architecture leverages shared embedding spaces and a label projection mechanism, allowing the model to generalize across languages without additional annotation. We evaluate on several benchmark datasets including WikiAnn and CoNLL, achieving state-of-the-art performance in zero-shot configurations. The model\u2019s ability to adapt rapidly to new languages underscores its practical utility in multilingual environments.",
+      "authors": [
+        {
+          "_id": "auth3",
+          "name": "Charlie Lee",
+          "org": "Harvard University",
+          "orgid": "org3"
+        },
+        {
+          "_id": "auth4",
+          "name": "Dana White",
+          "org": "Oxford University",
+          "orgid": "org4"
+        },
+        {
+          "_id": "auth2",
+          "name": "Bob Jones",
+          "org": "Stanford University",
+          "orgid": "org2"
+        }
+      ],
+      "doi": "10.1000/e51d782a",
+      "fos": [
+        "text mining",
+        "information retrieval"
+      ],
+      "keywords": [
+        "ner",
+        "zero-shot",
+        "transfer learning"
+      ],
+      "lang": "en",
+      "n_citation": 60,
+      "references": [
+        "3329cadd-5e81-4bbc-8d48-a6845b1180b8",
+        "afe079f4-2825-4e07-a159-63afbf360440",
+        "c4000913-eaf3-4b38-b5c1-a8ae73903ba2",
+        "f446d53a-bcd8-4202-bbeb-73e413038455",
+        "abfd5cab-ba62-4fcb-8d12-04fdbd276b67",
+        "2837acc5-872b-4d5d-bee4-652f1ca8fa94",
+        "59ee4bcd-5a5c-492a-a838-588cce33e794",
+        "a8ff20e2-4ac0-4b6e-8f55-0bd69bf35401",
+        "bb34f5d0-c1d5-4ce2-a68a-4428b4f0ca91",
+        "0d442231-6297-4c12-ba97-52d4d1d2c9c8",
+        "fd8fc25b-2c12-4b67-9dfe-8224d8a5945d",
+        "1e6de0fa-e991-4577-ae1d-19b7ad6cb184"
+      ],
+      "title": "Zero-Shot Cross-Lingual NER Using Transformers",
+      "venue": {
+        "_id": "555037cf7cea80f95419b105",
+        "name": "NeurIPS",
+        "raw": "NeurIPS"
+      },
+      "year": 2021,
+      "es_score": 0.255,
+      "qdrant_score": 1.0,
+      "combined_score": 0.639,
+      "query_similarity": 1.0,
+      "final_score": 0.88
+    }
+  ]
